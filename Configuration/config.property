@@ -1,0 +1,8 @@
+ChromeDriver=C:\\Users\\HP PC\\eclipse-workspace\\Allfortesting\\drivers\\chromedriver.exe
+
+FirefoxDriver=C:\\\Users\\\HP PC\\\eclipse-workspace\\\Allfortesting\\\drivers\\\geckodriver.exe
+
+URL=https://demo.opencart.com/
+
+ExcelPath=C:\\Users\\HP PC\\eclipse-workspace\\Allfortesting\\Resources\\OpenCart.xlsx
+

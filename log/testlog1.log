@@ -1,0 +1,317 @@
+2020-04-12 18:10:50,085 [main] INFO Search - WebPage Launched
+2020-04-12 18:15:35,969 [main] INFO Search - WebPage Launched
+2020-04-12 18:15:36,472 [main] INFO Search - cvjhbch
+2020-04-12 18:18:22,073 [main] INFO Search - WebPage Launched
+2020-04-12 18:18:26,098 [main] INFO Search - Login Succesful
+2020-04-12 18:18:28,394 [main] INFO Search - Searched for the product
+2020-04-12 18:18:29,360 [main] INFO Search - Searching for valid products Succesful
+2020-04-12 18:23:46,986 [main] INFO Invalid Search - Webpage Launched sucessfully
+2020-04-12 18:23:55,615 [main] INFO Invalid Search - Login Details enter succesfully
+2020-04-12 18:23:58,464 [main] INFO Invalid Search - Invalid Search for product has done
+2020-04-12 18:30:18,101 [main] INFO Search - WebPage Launched
+2020-04-12 18:30:22,466 [main] INFO Search - Login Succesful
+2020-04-12 18:30:24,319 [main] INFO Search - Searched for the product
+2020-04-12 18:30:24,920 [main] INFO Search - Searching for valid products Succesful
+2020-04-12 18:34:24,444 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 18:34:30,206 [main] INFO Search - Logged in  sucessfully
+2020-04-12 18:34:37,662 [main] INFO Search - product added cart sucessfully
+2020-04-12 18:34:52,926 [main] INFO Search - Check out   sucessfully
+2020-04-12 18:34:59,866 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 18:35:02,912 [main] INFO Search - LogOut sucessfully
+2020-04-12 18:44:27,849 [main] INFO Search - WebPage Launched
+2020-04-12 18:44:34,649 [main] INFO Search - Login Details enter succesfully
+2020-04-12 18:44:41,945 [main] INFO Search - Got Valid details products sucessfully
+2020-04-12 18:49:39,517 [main] INFO Comparision - WebPage Launched
+2020-04-12 18:49:46,522 [main] INFO Comparision - Login Details enter succesfully
+2020-04-12 18:49:51,355 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-12 18:50:57,426 [main] INFO Details - WebPage Launched
+2020-04-12 18:51:03,899 [main] INFO Details - Login Details enter succesfully
+2020-04-12 18:51:09,597 [main] INFO Details - Got Valid details products sucessfully
+2020-04-12 18:53:16,510 [main] INFO Comparision - WebPage Launched
+2020-04-12 18:53:22,865 [main] INFO Comparision - Login Details enter succesfully
+2020-04-12 18:53:27,573 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-12 18:53:38,323 [main] INFO Details - WebPage Launched
+2020-04-12 18:53:43,673 [main] INFO Details - Login Details enter succesfully
+2020-04-12 18:53:49,384 [main] INFO Details - Got Valid details products sucessfully
+2020-04-12 18:54:00,875 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 18:54:06,916 [main] INFO Search - Logged in  sucessfully
+2020-04-12 18:54:13,224 [main] INFO Search - product added cart sucessfully
+2020-04-12 18:54:43,263 [main] INFO Search - Check out   sucessfully
+2020-04-12 18:54:54,560 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 18:54:58,123 [main] INFO Search - LogOut sucessfully
+2020-04-12 18:55:11,302 [main] INFO Invalid Search - Webpage Launched sucessfully
+2020-04-12 18:55:16,557 [main] INFO Invalid Search - Login Details enter succesfully
+2020-04-12 18:55:19,104 [main] INFO Invalid Search - Invalid Search for product has done
+2020-04-12 18:55:31,923 [main] INFO Search - WebPage Launched
+2020-04-12 18:55:35,931 [main] INFO Search - Login Succesful
+2020-04-12 18:55:38,345 [main] INFO Search - Searched for the product
+2020-04-12 18:55:39,042 [main] INFO Search - Searching for valid products Succesful
+2020-04-12 18:56:56,943 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 18:57:03,007 [main] INFO Search - Logged in  sucessfully
+2020-04-12 18:57:09,812 [main] INFO Search - product added cart sucessfully
+2020-04-12 18:57:44,827 [main] INFO Search - Check out   sucessfully
+2020-04-12 18:57:52,341 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 18:57:55,477 [main] INFO Search - LogOut sucessfully
+2020-04-12 18:59:22,695 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 18:59:28,622 [main] INFO Search - Logged in  sucessfully
+2020-04-12 18:59:36,323 [main] INFO Search - product added cart sucessfully
+2020-04-12 19:01:51,788 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 19:01:57,361 [main] INFO Search - Logged in  sucessfully
+2020-04-12 19:02:04,060 [main] INFO Search - product added cart sucessfully
+2020-04-12 19:02:55,132 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 19:03:01,769 [main] INFO Search - Logged in  sucessfully
+2020-04-12 19:03:08,295 [main] INFO Search - product added cart sucessfully
+2020-04-12 19:04:59,533 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 19:05:06,147 [main] INFO Search - Logged in  sucessfully
+2020-04-12 19:05:13,424 [main] INFO Search - product added cart sucessfully
+2020-04-12 19:27:16,226 [main] INFO Comparision - WebPage Launched
+2020-04-12 19:27:21,948 [main] INFO Comparision - Login Details enter succesfully
+2020-04-12 19:27:26,178 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-12 19:27:37,882 [main] INFO Details - WebPage Launched
+2020-04-12 19:27:43,214 [main] INFO Details - Login Details enter succesfully
+2020-04-12 19:27:48,577 [main] INFO Details - Got Valid details products sucessfully
+2020-04-12 19:28:00,033 [main] INFO Invalid Search - Webpage Launched sucessfully
+2020-04-12 19:28:05,248 [main] INFO Invalid Search - Login Details enter succesfully
+2020-04-12 19:28:07,506 [main] INFO Invalid Search - Invalid Search for product has done
+2020-04-12 19:28:20,166 [main] INFO Search - WebPage Launched
+2020-04-12 19:28:23,918 [main] INFO Search - Login Succesful
+2020-04-12 19:28:26,219 [main] INFO Search - Searched for the product
+2020-04-12 19:28:26,704 [main] INFO Search - Searching for valid products Succesful
+2020-04-12 19:29:41,505 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 19:29:48,148 [main] INFO Search - Logged in  sucessfully
+2020-04-12 19:29:54,652 [main] INFO Search - product added cart sucessfully
+2020-04-12 19:30:10,010 [main] INFO Search - Check out   sucessfully
+2020-04-12 19:30:16,313 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 19:30:19,198 [main] INFO Search - LogOut sucessfully
+2020-04-12 20:20:19,676 [main] INFO Search - WebPage Launched
+2020-04-12 20:20:23,418 [main] INFO Search - Login Succesful
+2020-04-12 20:20:26,275 [main] INFO Search - Searched for the product
+2020-04-12 20:20:26,778 [main] INFO Search - Searching for valid products Succesful
+2020-04-12 20:40:06,454 [main] INFO Search - WebPage Launched
+2020-04-12 20:40:10,200 [main] INFO Search - Login Succesful
+2020-04-12 20:40:12,343 [main] INFO Search - Searched for the product
+2020-04-12 20:40:12,823 [main] INFO Search - Searching for valid products Succesful
+2020-04-12 21:01:11,004 [main] INFO Comparision - WebPage Launched
+2020-04-12 21:01:17,484 [main] INFO Comparision - Login Details enter succesfully
+2020-04-12 21:01:22,262 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-12 21:03:12,175 [main] INFO Comparision - WebPage Launched
+2020-04-12 21:03:17,615 [main] INFO Comparision - Login Details enter succesfully
+2020-04-12 21:03:25,376 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-12 21:26:44,776 [main] INFO Comparision - WebPage Launched
+2020-04-12 21:26:50,170 [main] INFO Comparision - Login Details enter succesfully
+2020-04-12 21:26:55,730 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-12 21:46:47,129 [main] INFO Comparision - WebPage Launched
+2020-04-12 21:46:50,808 [main] INFO Comparision - Login Details enter succesfully
+2020-04-12 21:46:58,649 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-12 23:01:16,258 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 23:01:22,748 [main] INFO Search - Logged in  sucessfully
+2020-04-12 23:01:31,118 [main] INFO Search - product added cart sucessfully
+2020-04-12 23:02:26,424 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 23:02:32,963 [main] INFO Search - Logged in  sucessfully
+2020-04-12 23:02:39,879 [main] INFO Search - product added cart sucessfully
+2020-04-12 23:02:55,592 [main] INFO Search - Check out   sucessfully
+2020-04-12 23:03:02,989 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 23:03:06,257 [main] INFO Search - LogOut sucessfully
+2020-04-12 23:05:27,265 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 23:05:33,520 [main] INFO Search - Logged in  sucessfully
+2020-04-12 23:05:40,901 [main] INFO Search - product added cart sucessfully
+2020-04-12 23:06:28,896 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 23:06:34,545 [main] INFO Search - Logged in  sucessfully
+2020-04-12 23:06:40,782 [main] INFO Search - product added cart sucessfully
+2020-04-12 23:06:56,137 [main] INFO Search - Check out   sucessfully
+2020-04-12 23:07:03,102 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 23:07:06,621 [main] INFO Search - LogOut sucessfully
+2020-04-12 23:07:32,228 [main] INFO Search - Webpage Launched sucessfully
+2020-04-12 23:07:38,266 [main] INFO Search - Logged in  sucessfully
+2020-04-12 23:07:44,064 [main] INFO Search - product added cart sucessfully
+2020-04-12 23:07:59,619 [main] INFO Search - Check out   sucessfully
+2020-04-12 23:08:06,144 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 23:08:09,335 [main] INFO Search - LogOut sucessfully
+2020-04-12 23:27:57,892 [main] INFO Search - WebPage Launched
+2020-04-12 23:28:03,524 [main] INFO Search - Login Succesful
+2020-04-12 23:28:06,901 [main] INFO Search - Searched for the product
+2020-04-12 23:28:07,694 [main] INFO Search - Searching for valid products Succesful
+2020-04-12 23:36:44,161 [main] INFO Search - WebPage Launched
+2020-04-12 23:36:50,214 [main] INFO Search - Login Details enter succesfully
+2020-04-12 23:36:52,542 [main] INFO Search - Invalid Search for product has done
+2020-04-12 23:41:22,704 [main] INFO Search - WebPage Launched
+2020-04-12 23:41:28,638 [main] INFO Search - Login Details enter succesfully
+2020-04-12 23:41:31,236 [main] INFO Search - Invalid Search for product has done
+2020-04-12 23:51:18,430 [main] INFO Search - WebPage Launched
+2020-04-12 23:51:25,167 [main] INFO Search - Logged in  sucessfully
+2020-04-12 23:51:32,308 [main] INFO Search - product added cart sucessfully
+2020-04-12 23:51:48,022 [main] INFO Search - Check out   sucessfully
+2020-04-12 23:53:07,239 [main] INFO Search - WebPage Launched
+2020-04-12 23:53:13,162 [main] INFO Search - Logged in  sucessfully
+2020-04-12 23:53:19,168 [main] INFO Search - product added cart sucessfully
+2020-04-12 23:53:34,718 [main] INFO Search - Check out   sucessfully
+2020-04-12 23:53:41,484 [main] INFO Search - Order Placed  sucessfully
+2020-04-12 23:53:45,317 [main] INFO Search - LogOut sucessfully
+2020-04-13 00:00:35,865 [main] INFO Search - WebPage Launched
+2020-04-13 00:00:42,270 [main] INFO Search - Logged in  sucessfully
+2020-04-13 00:00:48,492 [main] INFO Search - product added cart sucessfully
+2020-04-13 00:01:05,704 [main] INFO Search - Check out   sucessfully
+2020-04-13 00:01:12,763 [main] INFO Search - Order Placed  sucessfully
+2020-04-13 00:01:16,226 [main] INFO Search - LogOut sucessfully
+2020-04-13 00:06:21,749 [main] INFO Search - WebPage Launched
+2020-04-13 00:06:27,895 [main] INFO Search - Login Details enter succesfully
+2020-04-13 00:06:34,892 [main] INFO Search - Got Valid details products sucessfully
+2020-04-13 00:10:58,610 [main] INFO Comparision - WebPage Launched
+2020-04-13 00:11:03,072 [main] INFO Comparision - Login Details enter succesfully
+2020-04-13 00:11:09,125 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-13 00:13:54,581 [main] INFO Comparision - WebPage Launched
+2020-04-13 00:13:58,755 [main] INFO Comparision - Login Details enter succesfully
+2020-04-13 00:14:04,668 [main] INFO Comparision - Comparision among products Succesfull
+2020-04-13 00:14:15,435 [main] INFO Search - WebPage Launched
+2020-04-13 00:14:20,830 [main] INFO Search - Login Details enter succesfully
+2020-04-13 00:14:26,250 [main] INFO Search - Got Valid details products sucessfully
+2020-04-13 00:14:37,256 [main] INFO Integration - WebPage Launched
+2020-04-13 00:14:42,921 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:14:49,112 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:15:05,511 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:15:37,851 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:15:41,151 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:15:52,297 [main] INFO Search - WebPage Launched
+2020-04-13 00:15:57,458 [main] INFO Search - Login Details enter succesfully
+2020-04-13 00:16:00,036 [main] INFO Search - Invalid Search for product has done
+2020-04-13 00:16:11,983 [main] INFO Search - WebPage Launched
+2020-04-13 00:16:15,340 [main] INFO Search - Login Succesful
+2020-04-13 00:16:17,218 [main] INFO Search - Searched for the product
+2020-04-13 00:16:17,758 [main] INFO Search - Searching for valid products Succesful
+2020-04-13 00:16:51,888 [main] INFO Integration - WebPage Launched
+2020-04-13 00:16:57,752 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:17:03,575 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:17:32,398 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:17:38,744 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:17:42,095 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:19:42,372 [main] INFO Integration - WebPage Launched
+2020-04-13 00:19:48,071 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:19:54,033 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:20:19,710 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:21:41,603 [main] INFO Integration - WebPage Launched
+2020-04-13 00:21:47,814 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:21:53,548 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:24:42,539 [main] INFO Integration - WebPage Launched
+2020-04-13 00:24:48,543 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:24:54,575 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:25:10,192 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:25:17,044 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:25:20,347 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:25:39,357 [main] INFO Integration - WebPage Launched
+2020-04-13 00:25:45,696 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:25:51,719 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:26:42,710 [main] INFO Integration - WebPage Launched
+2020-04-13 00:26:48,230 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:26:54,305 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:27:10,619 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:27:17,025 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:27:21,616 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:29:51,080 [main] INFO Integration - WebPage Launched
+2020-04-13 00:29:57,369 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:30:03,579 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:30:19,216 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:30:26,215 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:30:29,465 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:44:21,782 [main] INFO Integration - WebPage Launched
+2020-04-13 00:44:27,565 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:44:34,558 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:45:06,353 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:45:15,937 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:45:19,279 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:45:37,646 [main] INFO Integration - WebPage Launched
+2020-04-13 00:45:44,356 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:45:50,291 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:46:05,648 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:46:12,288 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:46:15,603 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:46:34,266 [main] INFO Integration - WebPage Launched
+2020-04-13 00:46:40,338 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:46:46,489 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:47:03,041 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:47:09,470 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:47:12,669 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:47:32,903 [main] INFO Integration - WebPage Launched
+2020-04-13 00:47:40,300 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:47:46,386 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:48:11,579 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:48:20,764 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:48:24,026 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:48:42,340 [main] INFO Integration - WebPage Launched
+2020-04-13 00:48:48,026 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:48:54,129 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:49:21,081 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:49:27,617 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:49:30,901 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:49:54,941 [main] INFO Integration - WebPage Launched
+2020-04-13 00:50:01,288 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:50:07,679 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:50:24,175 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:50:31,030 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:50:34,633 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:52:19,146 [main] INFO Integration - WebPage Launched
+2020-04-13 00:52:25,928 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:52:32,140 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:52:47,615 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:52:53,710 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:52:56,769 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:53:34,377 [main] INFO Integration - WebPage Launched
+2020-04-13 00:53:40,456 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:53:46,778 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:54:02,000 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:54:20,703 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:54:23,983 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:54:55,978 [main] INFO Integration - WebPage Launched
+2020-04-13 00:55:01,745 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:55:07,766 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:55:23,324 [main] INFO Integration - Check out   sucessfully
+2020-04-13 00:55:30,239 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 00:55:33,737 [main] INFO Integration - LogOut sucessfully
+2020-04-13 00:56:41,018 [main] INFO Integration - WebPage Launched
+2020-04-13 00:56:47,363 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:56:53,208 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:57:30,842 [main] INFO Integration - WebPage Launched
+2020-04-13 00:57:36,525 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:57:42,895 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:58:50,176 [main] INFO Integration - WebPage Launched
+2020-04-13 00:58:56,060 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 00:59:02,039 [main] INFO Integration - product added cart sucessfully
+2020-04-13 00:59:38,251 [main] INFO Integration - Check out   sucessfully
+2020-04-13 01:00:31,965 [main] INFO Integration - WebPage Launched
+2020-04-13 01:00:38,023 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 01:00:44,150 [main] INFO Integration - product added cart sucessfully
+2020-04-13 01:01:10,312 [main] INFO Integration - Check out   sucessfully
+2020-04-13 01:01:16,792 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 01:01:19,985 [main] INFO Integration - LogOut sucessfully
+2020-04-13 01:01:41,694 [main] INFO Integration - WebPage Launched
+2020-04-13 01:01:47,427 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 01:01:56,249 [main] INFO Integration - product added cart sucessfully
+2020-04-13 01:02:20,911 [main] INFO Integration - Check out   sucessfully
+2020-04-13 01:02:27,890 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 01:02:30,913 [main] INFO Integration - LogOut sucessfully
+2020-04-13 01:02:49,371 [main] INFO Integration - WebPage Launched
+2020-04-13 01:02:55,251 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 01:03:01,709 [main] INFO Integration - product added cart sucessfully
+2020-04-13 01:03:26,183 [main] INFO Integration - Check out   sucessfully
+2020-04-13 01:03:32,844 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 01:03:36,201 [main] INFO Integration - LogOut sucessfully
+2020-04-13 01:04:03,236 [main] INFO Integration - WebPage Launched
+2020-04-13 01:04:09,265 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 01:04:15,425 [main] INFO Integration - product added cart sucessfully
+2020-04-13 01:04:30,631 [main] INFO Integration - Check out   sucessfully
+2020-04-13 01:04:37,100 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 01:04:40,622 [main] INFO Integration - LogOut sucessfully
+2020-04-13 01:04:59,003 [main] INFO Integration - WebPage Launched
+2020-04-13 01:05:04,514 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 01:05:10,924 [main] INFO Integration - product added cart sucessfully
+2020-04-13 01:06:08,024 [main] INFO Integration - WebPage Launched
+2020-04-13 01:06:15,760 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 01:06:22,910 [main] INFO Integration - product added cart sucessfully
+2020-04-13 01:06:38,519 [main] INFO Integration - Check out   sucessfully
+2020-04-13 01:06:45,096 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 01:06:48,303 [main] INFO Integration - LogOut sucessfully
+2020-04-13 08:52:10,590 [main] INFO Integration - WebPage Launched
+2020-04-13 08:52:16,783 [main] INFO Integration - Logged in  sucessfully
+2020-04-13 08:52:25,519 [main] INFO Integration - product added cart sucessfully
+2020-04-13 08:52:41,344 [main] INFO Integration - Check out   sucessfully
+2020-04-13 08:52:48,080 [main] INFO Integration - Order Placed  sucessfully
+2020-04-13 08:52:51,628 [main] INFO Integration - LogOut sucessfully
